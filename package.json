@@ -1,0 +1,16 @@
+{
+  "name": "qrcode-generator-nodejs",
+  "version": "1.0.0",
+  "description": "## Rodar a aplicação Baixe o repositório e execute o comando pra instalar as dependências: ``` npm install ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gerar-qrcode": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "^1.5.3"
+  }
+}
